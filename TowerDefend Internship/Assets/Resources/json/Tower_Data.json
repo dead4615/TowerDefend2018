@@ -1,0 +1,73 @@
+{
+	"ListTowers":
+	[
+		{
+			"towerName":"Tower1",
+			"TowerDescription":"blablabla",
+			"TowerData":
+				{"Upgrade":[
+					{
+						"name":"Level1",
+						"description":"blablabla",
+						"Demage":10.0,
+						"Range":180.0,
+						"AttackSpeed" : 1,
+						"setEffect":0
+						
+					},
+					{
+						"name":"Level2",
+						"description":"blablabla",
+						"Demage":10.0,
+						"Range":250.0,
+						"AttackSpeed" : 1,
+						"setEffect":0
+					},
+					
+					{
+						"name":"Level3",
+						"description":"blablabla",
+						"Demage":20.0,
+						"Range":300.0,
+						"AttackSpeed" : 1.5,
+						"setEffect":0
+					}]
+				}
+		},
+
+		{
+			"towerName":"Tower2",
+			"TowerDescription":"blablabla",
+			"TowerData":
+				{"Upgrade":[
+					{
+						"name":"Level1",
+						"description":"blablabla",
+						"Demage":10.0,
+						"Range":20.0,
+						"AttackSpeed" : 0.5,
+						"setEffect":0
+					},
+					{
+						"name":"Level2",
+						"description":"blablabla",
+						"Demage":10.0,
+						"Range":30.0,
+						"AttackSpeed" : 0.7,
+						"setEffect":0
+					},
+					
+					{
+						"name":"Level3",
+						"description":"blablabla",
+						"Demage":20.0,
+						"Range":35.0,
+						"AttackSpeed" : 0.8,
+						"setEffect":0
+					}]
+				}
+		}
+
+
+	]
+}

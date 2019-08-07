@@ -1,0 +1,124 @@
+{
+
+	"ListTowers":
+		[
+			{
+				"towerName":"Tower1",
+				"TowerDescription":"This is a Basic Tower",
+				"TowerData":
+					{
+						"enemyTarget" : 0,
+						"Upgrade":
+						[
+							{
+								"name":"Level1",
+								"description":"blablabla",
+								"Demage":20.0,
+								"Range":180.0,
+								"AttackSpeed":1.5,
+								"Cost":10,
+								"setEffect":0
+							},
+							
+							{
+								"name":"Level2",
+								"description":"blablabla",
+								"Demage":20.0,
+								"Range":200.0,
+								"AttackSpeed":1.5,
+								"Cost":15,
+								"setEffect":0
+							},
+							
+							{
+								"name":"Level3",
+								"description":"blablabla",
+								"Demage":30.0,
+								"Range":250.0,
+								"AttackSpeed":2,
+								"Cost":25,
+								"setEffect":0
+							}
+						]
+					}
+			},
+			
+			{
+				"towerName":"Tower2",
+				"TowerDescription":"This Tower can hit Walking Enemies and make them slow",
+				"TowerData":
+					{
+						"enemyTarget" : 0,
+						"Upgrade":
+						[
+							{
+								"name":"Level1",
+								"description":"blablabla",
+								"Demage":10.0,
+								"Range":150.0,
+								"AttackSpeed":1,
+								"Cost":15,
+								"setEffect":1
+							},
+							{
+								"name":"Level2",
+								"description":"blablabla",
+								"Demage":10.0,
+								"Range":150.0,
+								"AttackSpeed":1.2,
+								"Cost":20,
+								"setEffect":1
+							},
+							{
+								"name":"Level3",
+								"description":"blablabla",
+								"Demage":20.0,
+								"Range":200.0,
+								"AttackSpeed":1.4,
+								"Cost":25,
+								"setEffect":1
+							}
+						]
+					}
+			},
+
+			{
+				"towerName":"Tower3",
+				"TowerDescription":"This Tower Can Hit Flying Enemies(Box Enemies)",
+				"TowerData":
+					{
+						"enemyTarget" : 1,
+						"Upgrade":
+						[
+							{
+								"name":"Level1",
+								"description":"blablabla",
+								"Demage":20.0,
+								"Range":180.0,
+								"AttackSpeed":1.5,
+								"Cost":10,
+								"setEffect":0
+							},
+							{
+								"name":"Level2",
+								"description":"blablabla",
+								"Demage":20.0,
+								"Range":200.0,
+								"AttackSpeed":1.7,
+								"Cost":25,
+								"setEffect":1
+							},
+							{
+								"name":"Level3",
+								"description":"blablabla",
+								"Demage":20.0,
+								"Range":230.0,
+								"AttackSpeed":2,
+								"Cost":35,
+								"setEffect":1
+							}
+						]
+					}
+			}
+		]
+}

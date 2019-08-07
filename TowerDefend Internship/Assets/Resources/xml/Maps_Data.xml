@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MapsDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MapDetail>
+    <Level>
+      <name>Level1</name>
+      <LevelDesign>
+        <Stage>
+          <name>Stage0</name>
+          <stageMapDetail>(1,1,3,1,1,1,1,1,1)(1,2,2,1,1,1,1,1,1)(1,2,1,1,1,1,1,1,1)(1,2,1,1,1,1,1,1,1)(1,2,1,1,1,1,1,2,1)(2,2,1,1,2,2,2,2,1)(1,1,1,1,2,1,1,1,1)(1,1,1,1,2,1,1,1,1)(1,1,1,1,3,1,1,1,1)</stageMapDetail>
+        </Stage>
+      </LevelDesign>
+    </Level>
+  </MapDetail>
+</MapsDataBase>

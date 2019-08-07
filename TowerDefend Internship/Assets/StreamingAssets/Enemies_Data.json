@@ -1,0 +1,28 @@
+{
+	"ListEnemies":
+	[
+		{
+			"name":"Enemy1",
+			"description":"Blablabla",
+			"Health":100.0,
+			"MoveSpeed":20,
+			"type":0
+		},
+		
+		{
+			"name":"Enemy2",
+			"description":"Blablabla",
+			"Health":50.0,
+			"MoveSpeed":40,
+			"type":0
+		},
+		
+		{
+			"name":"Enemy3",
+			"description":"Blablabla",
+			"Health":100.0,
+			"MoveSpeed":20,
+			"type":1
+		}
+	]
+}
